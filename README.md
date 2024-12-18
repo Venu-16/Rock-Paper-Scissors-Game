@@ -24,12 +24,12 @@ A simple interactive Rock Paper Scissors game built using **HTML**, **CSS**, and
 
 ## 📂 Project Structure
 RockPaperScissors/  
-├── index.html                # The main HTML file defining the structure of the game.  
-├── styles.css                # CSS file for styling the game interface.  
-├── app.js                    # JavaScript file containing the game logic.  
-├── rock-removebg-preview.png # Image representing the "Rock" choice.  
-├── paper.jpg.png             # Image representing the "Paper" choice.  
-├── scissor-removebg-preview.png # Image representing the "Scissors" choice.  
+├── index.html                 
+├── styles.css                  
+├── app.js                     
+├── rock-removebg-preview.png  
+├── paper.jpg.png               
+├── scissor-removebg-preview.png   
 
 
 
