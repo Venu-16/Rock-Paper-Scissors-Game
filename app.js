@@ -29,7 +29,7 @@ function wins(userChoice, computerChoice) {
     const choiceDiv = document.getElementById(userChoice);
     choiceDiv.classList.add("green-glow");
 
-    // Remove the green-glow class after 300ms
+    
     setTimeout(() => choiceDiv.classList.remove("green-glow"), 1000);
 }
 
