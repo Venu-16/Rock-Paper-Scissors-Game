@@ -27,9 +27,9 @@ RockPaperScissors/
 ├── index.html                 
 ├── styles.css                  
 ├── app.js                     
-├── rock-removebg-preview.png  
-├── paper.jpg.png               
-├── scissor-removebg-preview.png   
+├── rock.png  
+├── paper.png               
+├── scissor.png   
 
 
 
